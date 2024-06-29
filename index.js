@@ -107,17 +107,17 @@
 // console.log(teskariArr(arr1));
 
 //9-masala
-let str = '12340';
-function deletZero(srt){
-    let res = srt.split('').forEach(function(valeu){
-        if (valeu.length -1 != 0){
-            res.push(valeu)
-        }
-    });
+// let str = '12340';
+// function deletZero(srt){
+//     let res = srt.split('').forEach(function(valeu){
+//         if (valeu.length -1 != 0){
+//             res.push(valeu)
+//         }
+//     });
    
-    return res.join('');
-}
-console.log(deletZero(res));
+//     return res.join('');
+// }
+// console.log(deletZero(res));
 
 //10-masala
 // let arr1 = [1,2,3,4];
